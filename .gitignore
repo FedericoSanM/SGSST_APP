@@ -1,0 +1,15 @@
+# Entornos y dependencias
+__pycache__/
+*.pyc
+.env
+
+# Docker volumes / build
+*.log
+.env.local
+
+# Node
+node_modules/
+
+# contenedores
+.DS_Store
+.vscode/
