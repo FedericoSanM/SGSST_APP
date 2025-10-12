@@ -1,0 +1,40 @@
+Business Source License 1.1
+
+Licensor: Federico Sanín Medina
+Licensed Work: SGSST App — Intelligent System for Occupational Safety and Health Management
+Licensor Entity Country: Colombia
+Change Date: 2030-01-01
+Change License: Apache License 2.0
+
+Additional Use Grant:
+You may use, copy, modify, and distribute this Licensed Work for non-commercial purposes only, including personal, educational, academic, and research use.
+
+Purpose:
+This Licensed Work is intended to support the development and digital implementation of Occupational Safety and Health Management Systems (SG-SST).
+
+Definitions:
+"Licensed Work" means the software, source code, documentation, images, diagrams, database schemas, infographics, and all other materials included in this repository, as published by the Licensor.
+"Non-Commercial Use" means any use or activity that is not intended for or directed toward commercial advantage or monetary compensation.
+
+Change License:
+On or after the Change Date, this Licensed Work will automatically become available under the Apache License, Version 2.0.
+
+Terms:
+1. You may not use the Licensed Work for any Commercial Use without express written permission from the Licensor.
+2. You may not host, sell, sublicense, or provide the Licensed Work as a service (SaaS) for commercial gain.
+3. You may copy, modify, or redistribute this work only for Non-Commercial Use and only if this license text and all copyright notices remain intact.
+4. The Licensor retains all rights not expressly granted in this license.
+
+Disclaimer:
+The Licensed Work is provided “as is,” without warranties or conditions of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+Legal Scope:
+This license covers all components of the repository, including:
+1. Source code (Python, JavaScript, Dockerfiles...)
+2. Documentation, diagrams, and graphics...
+3. Database schemas, configuration files, and text templates...
+4. AI model structures, configurations, and datasets (if applicable)...
+
+Copyright © 2025 Federico Sanín Medina
+All rights reserved.
+Protected globally under the Berne Convention for the Protection of Literary and Artistic Works.

@@ -1,0 +1,204 @@
+Visión modular para la aplicación de SGSST en Colombia:
+
+Se debe implementar la inteligencia artificial para automatizar y proporcionar ayuda en los procesos como por ejemplo: identificación de requisitos legales, identificación de peligros y valoración de riesgos, plan de trabajo anual,
+documentación del sistema, comités, plan de emergencias, entre otros.
+
+Se deben establecer bases de datos para guardar registros y documentos.
+
+Se deben establecer roles como trabajador, responsable del SGSST, miembro de comité, entre otros.
+
+* Módulos
+
+- Inicio
+------------------
+
+Sistema de Gestión de Seguridad y Salud en el Trabajo basado en el ciclo PHVA. debe adaptarse al tamaño y características de la empresa; igualmente, puede ser compatible con los otros sistemas de gestión de la empresa y estar integrado en ellos.
+
+- Planificar
+    - Política SGSST:
+            Firmada y fechada por el empleador. La Política de SST de la empresa debe entre otros, cumplir con los siguientes requisitos: Establecer el compromiso de la empresa hacia la implementación del SST de la empresa
+            para la gestión de los riesgos laborales. Ser específica para la empresa y apropiada para la naturaleza de sus peligros y el tamaño de la organización. Ser concisa, redactada con claridad, estar fechada y firmada por
+            el representante legal de la empresa. Debe ser difundida a todos los niveles de la organización y estar accesible a todos los trabajadores y demás partes interesadas, en el lugar de trabajo; Ser revisada como mínimo una
+            vez al año y de requerirse, actualizada acorde con los cambios tanto en materia de SST, como en la empresa. La Política de SST de la empresa debe incluir como mínimo los siguientes objetivos sobre los cuales la
+            organización expresa su compromiso: Identificar los peligros, evaluar y valorar los riesgos y establecer los respectivos controles. Proteger la seguridad y salud de todos los trabajadores, mediante la mejora continua del
+            SG-SST en la empresa; Cumplir la normatividad nacional vigente aplicable en materia de riesgos laborales.
+    - Objetivos del SGSST:
+            Los objetivos deben expresarse de conformidad con la política establecida y el resultado de la evaluación inicial y auditorías que se realicen. Estos objetivos deben tener en cuenta entre otros aspectos, los siguientes:
+            Ser claros, medibles, cuantificables y tener metas definidas para su cumplimiento; Ser adecuados para las características, el tamaño y la actividad económica de la empresa; Ser coherentes con el de plan de trabajo anual
+            de acuerdo con las prioridades identificadas; Ser compatibles con el cumplimiento de la normatividad vigente aplicable, incluidos los estándares mínimos; Estar documentados y ser comunicados a todos los trabajadores; y
+            Ser revisados y evaluados periódicamente, mínimo una (1) vez al año y actualizados de ser necesario.
+    - Responsabilidades:
+            Debe asignar, documentar y comunicar las responsabilidades específicas en SST a todos los niveles de la organización, incluida la alta dirección.
+    - Recursos:
+            Debe definir y asignar los recursos financieros, técnicos y el personal necesario para el diseño, implementación, revisión evaluación y mejora de las medidas de prevención y control, para la gestión eficaz de los peligros
+            y riesgos en el lugar de trabajo y también, para que los responsables de la SST en la empresa, el COPASST o Vigía según corresponda, puedan cumplir de manera satisfactoria con sus funciones.
+    - Requisitos legales:
+            Identificación de requisitos legales, registro de normatividad, actualización de la vigencia, alertas o notificaciones de vencimiento o nueva vigencia.
+            Debe garantizar que opera bajo el cumplimiento de la normatividad nacional vigente aplicable en materia de seguridad y salud en el trabajo, en armonía con los estándares mínimos del Sistema Obligatorio de Garantía de
+            Calidad del Sistema General de Riesgos Laborales de que trata el artículo 14 de la Ley 1562 de 2012.
+    - Plan de trabajo anual:
+            Actividades a desarrollar, objetivos, metas, presupuesto, responsables y cronograma.
+    - Capacitación:
+            Requisitos de conocimiento y práctica, módulo de capacitación, integración con otras plataformas de capacitación, contenidos, evaluación, registro de datos, documentación, alerta de incumplimiento.
+            Los responsables de la ejecución de los SG-SST, deberán realizar el curso de capacitación virtual de cincuenta (50) horas sobre el SG-SST que defina el Ministerio del Trabajo en desarrollo de las acciones señaladas en el
+            literal a) del artículo 12 de la Ley 1562 de 2012, y obtener el certificado de aprobación del mismo.
+    - Documentación del sistema: 
+            Revisión y actualización, alerta de vencimiento,política y objetivos; responsabilidades asignadas; identificación de peligros y evaluación de los riesgos;
+            informe de las condiciones de salud; perfil sociodemográfico; plan de trabajo anual; programa de capacitación anual, soportes de inducción, reinducción y capacitaciones; Los procedimientos e instructivos internos;
+            Registros de entrega de equipos y elementos de protección personal; Registro de entrega de los protocolos de seguridad, de las fichas técnicas y demás instructivos; Los soportes de la convocatoria, elección y
+            conformación del COPASST y las actas de sus reuniones o la delegación del Vigía y los soportes de sus actuaciones;Los reportes y las investigaciones de los incidentes, accidentes y enfermedades laborales;
+            conformación del COCOLA y las actas de sus reuniones o la delegación del Vigía y los soportes de sus actuaciones;Los reportes y registros de los casos de presunto acoso laboral o actividades de prevención y promoción;
+            La identificación de las amenazas junto con la evaluación de la vulnerabilidad y planes de prevención, preparación y respuesta ante emergencias; Los programas de vigilancia epidemiológica, incluidos los resultados
+            de las mediciones ambientales y los perfiles de salud arrojados por los monitoreos biológicos; En el caso de contarse con servicios de médico especialista en medicina laboral o del trabajo, se deberá tener documentado
+            lo anterior y los resultados individuales de los monitoreos biológicos; Formatos de registros de las inspecciones; La matriz legal actualizada; y Evidencias de las gestiones para el control de los riesgos prioritarios.
+    - Conservación documental (20 años):
+            Los resultados de los perfiles epidemiológicos, conceptos de los exámenes de ingreso, periódicos y de retiro, en caso que no cuente con los servicios de médico especialista en áreas afines a la seguridad y salud en el trabajo;
+            Cuando la empresa cuente con médico, los resultados de exámenes de ingreso, periódicos y de egreso, de los exámenes complementarios tales como paraclínicos, pruebas de monitoreo biológico, audiometrías, espirometrías,
+            radiografías de tórax y demás en general, cuya reserva y custodia está a cargo del médico correspondiente; Resultados de mediciones y monitoreo a los ambientes de trabajo; Registros de las actividades de capacitación,
+            formación y entrenamiento; Registro del suministro de elementos y equipos de protección personal. Para los demás documentos y registros, el empleador deberá elaborar y cumplir con un sistema de archivo o retención documental.
+    - Comunicación:
+            Establecer mecanismos eficaces para: Recibir, documentar y responder las comunicaciones internas y externas relativas a la seguridad y salud en el trabajo; Garantizar que se dé a conocer el SG-SST a los trabajadores y contratistas;
+            Disponer de canales que permitan recolectar inquietudes, ideas y aportes de los trabajadores en la materia para que sean consideradas y atendidas por los responsables en la empresa.
+    - Evaluación inicial:
+            Deberá realizarse con el fin de identificar las prioridades para establecer el plan de trabajo anual o para la actualización del SGSST existente. Esta autoevaluación debe ser realizada por personal idóneo de conformidad con
+            la normatividad vigente, incluyendo los estándares mínimos que se reglamenten, formatos o plantillas de implementación, registro de información. Deberán realizar la evaluación y análisis de las estadísticas sobre la enfermedad
+            y la accidentalidad ocurrida en los dos (2) últimos años, la cual debe servir para establecer una línea base y para evaluar la mejora continua en el sistema. La evaluación inicial debe estar documentada y debe ser la base para
+            la toma de decisiones y la planificación del SGSST.
+    - Indicadores:
+            Se debe definir los indicadores (cualitativos o cuantitativos según corresponda) mediante los cuales se evalúen la estructura, el proceso y los resultados del SG-SST y debe hacer el seguimiento a los mismos. Estos indicadores
+            deben alinearse con el plan estratégico de la empresa y hacer parte del mismo. Cada indicador debe contar con una ficha técnica que contenga las siguientes variables: Definición del indicador; Interpretación del indicador;
+            Límite para el indicador o valor a partir del cual se considera que cumple o no con el resultado esperado; Método de cálculo; Fuente de la información para el cálculo; Periodicidad del reporte; Personas que deben conocer el resultado.
+    - Identificación de peliros:
+            Metodología que tenga alcance sobre todos los procesos y actividades rutinarias y no rutinarias internas o externas, máquinas y equipos, todos los centros de trabajo y todos los trabajadores independientemente de su forma de
+            contratación y vinculación, que le permita identificar los peligros y evaluar los riesgos en SST, con el fin que pueda priorizarlos y establecer los controles necesarios, realizando mediciones ambientales cuando se requiera.
+            La identificación de peligros y evaluación de los riesgos debe ser desarrollada por el empleador o contratante con la participación y compromiso de todos los niveles de la empresa. Debe ser documentada y actualizada como
+            mínimo de manera anual. También se debe actualizar cada vez que ocurra un accidente de trabajo mortal o un evento catastrófico en la empresa o cuando se presenten cambios en los procesos, en las instalaciones en la maquinaria
+            o en los equipos. De acuerdo con la naturaleza de los peligros, la priorización realizada y la actividad económica de la empresa, el empleador o contratante utilizará metodologías adicionales para complementar la evaluación
+            de los riesgos en seguridad y salud en el trabajo ante peligros de origen físicos, ergonómicos o biomecánicos, biológicos, químicos, de seguridad, público, psicosociales, entre otros. Cuando en el proceso productivo, se involucren
+            agentes potencialmente cancerígenos, deberán ser considerados como prioritarios, independientes de su dosis y nivel de exposición. El empleador debe informar al COPASST o Vigía sobre los resultados de las evaluaciones de los
+            ambientes de trabajo para que emita las recomendaciones a que haya lugar. Se debe identificar y relacionar en el SSGSST los trabajadores que se dediquen en forma permanente a las actividades de alto riesgo a las que hace
+            referencia el Decreto 2090 de 2003, o la norma que lo modifique o sustituya. 
+
+- Hacer
+    - Gestión de peligros y riesgos:
+            El empleador o contratante debe adoptar métodos para la identificación, prevención, evaluación, valoración y control de los peligros y riesgos en la empresa.
+    - Prevención y promoción de riesgos:
+            Las medidas de prevención y control deben adoptarse con base en el análisis de pertinencia, teniendo en cuenta el siguiente esquema de jerarquización: Eliminación del peligro/riesgo, Sustitución, Controles de Ingeniería,
+            Controles Administrativos, Equipos y Elementos de Protección Personal y Colectivo. debe suministrar los equipos y elementos de protección personal (EPP) sin ningún costo para el trabajador e igualmente, debe desarrollar
+            las acciones necesarias para que sean utilizados por los trabajadores, para que estos conozcan el deber y la forma correcta de utilizarlos y para que el mantenimiento o reemplazo de los mismos se haga de forma tal,
+            que se asegure su buen funcionamiento y recambio según vida útil para la protección de los trabajadores. debe desarrollar acciones de vigilancia de la salud de los trabajadores mediante las evaluaciones médicas de ingreso,
+            periódicas, retiro y los programas de vigilancia epidemiológica. debe corregir las condiciones inseguras que se presenten en el lugar de trabajo, de acuerdo con las condiciones específicas y riesgos asociados a la tarea.
+    - Participación de trabajadores:
+            Debe asegurar la adopción de medidas eficaces que garanticen la participación de todos los trabajadores y sus representantes ante el COPASST o Vigía, en la ejecución de la política y también que estos últimos funcionen y
+            cuenten con el tiempo y demás recursos necesarios, acorde con la normatividad vigente que les es aplicable. Así mismo, el empleador debe informar a los trabajadores y/o contratistas, a sus representantes ante el COPASST o
+            el Vigía, según corresponda de conformidad con la normatividad vigente, sobre el desarrollo de todas las etapas del SG-SST e igualmente, debe evaluar las recomendaciones emanadas de estos para el mejoramiento del SG-SST.
+            Debe garantizar la capacitación de los trabajadores en los aspectos de SST de acuerdo con las características de la empresa, la identificación de peligros, la evaluación y valoración de riesgos relacionados con su trabajo,
+            incluidas las disposiciones relativas a las situaciones de emergencia, dentro de la jornada laboral de los trabajadores directos o en el desarrollo de la prestación del servicio de los contratistas.
+    - Mecanismos de autorreporte:
+            Se debe facilitar mecanismos para el autorreporte de condiciones de trabajo y de salud por parte de los trabajadores o contratistas; esta información la debe utilizar como insumo para la actuación de las condiciones.
+    - Mantenimiento:
+            Debe realizar el mantenimiento de las instalaciones, equipos y herramientas de acuerdo con los informes de inspecciones y con sujeción a los manuales de uso.
+    - Plan de emergencias:
+            Debe implementar y mantener las disposiciones necesarias en materia de prevención, preparación y respuesta ante emergencias, con cobertura a todos los centros y turnos de trabajo y todos los trabajadores, independiente
+            de su forma de contratación o vinculación, incluidos contratistas y subcontratistas, así como proveedores y visitantes. Para ello debe implementar un plan que considere como mínimo, los siguientes aspectos: Identificar
+            sistemáticamente todas las amenazas que puedan afectar a la empresa; Identificar los recursos disponibles, incluyendo las medidas de prevención y control existentes al interior de la empresa para prevención, preparación
+            y respuesta ante emergencias, así como las capacidades existentes en las redes institucionales y de ayuda mutua; Analizar la vulnerabilidad de la empresa frente a las amenazas identificadas, considerando las medidas de
+            prevención y control existentes;Valorar y evaluar los riesgos considerando el número de trabajadores expuestos, los bienes y servicios de la empresa; Diseñar e implementar los procedimientos para prevenir y controlar
+            las amenazas priorizadas o minimizar el impacto de las no prioritarias; Formular el plan de emergencia para responder ante la inminencia u ocurrencia de eventos potencialmente desastrosos; Asignar los recursos necesarios
+            para diseñar e implementar los programas, procedimientos o acciones necesarias, para prevenir y controlar las amenazas prioritarias o minimizar el impacto de las no prioritarias; Implementar las acciones factibles, para
+            reducir la vulnerabilidad de la empresa frente a estas amenazas que incluye entre otros, la definición de planos de instalaciones y rutas de evacuación; Informar, capacitar y entrenar incluyendo a todos los trabajadores,
+            para que estén en capacidad de actuar y proteger su salud e integridad, ante una emergencia real o potencial; Realizar simulacros como mínimo una (1) vez al año con la participación de todos los trabajadores; Conformar,
+            capacitar, entrenar y dotar la brigada de emergencias, acorde con su nivel de riesgo y los recursos disponibles, que incluya la atención de primeros auxilios; Inspeccionar con la periodicidad que sea definida en el SG-SST,
+            todos los equipos relacionados con la prevención y atención de emergencias incluyendo sistemas de alerta, señalización y alarma, con el fin de garantizar su disponibilidad y buen funcionamiento; Desarrollar programas o
+            planes de ayuda mutua ante amenazas de interés común, identificando los recursos para la prevención, preparación y respuesta ante emergencias en el entorno de la empresa y articulándose con los planes que para el mismo
+            propósito puedan existir en la zona donde se ubica la empresa. El diseño del plan de prevención, preparación y respuesta ante emergencias debe permitir su integración con otras iniciativas, como los planes de continuidad
+            de negocio, cuando así proceda.
+    - Gestión del cambio:
+            Implementar y mantener un procedimiento para evaluar el impacto sobre la seguridad y salud en el trabajo que puedan generar los cambios internos (introducción de nuevos procesos, cambio en los métodos de trabajo, cambios
+            en instalaciones, entre otros) o los cambios externos (cambios en la legislación, evolución del conocimiento en seguridad y salud en el trabajo, entre otros). Para ello debe realizar la identificación de peligros y la
+            evaluación de riesgos que puedan derivarse de estos cambios y debe adoptar las medidas de prevención y control antes de su implementación, con el apoyo del COPASST o Vigía. Debe actualizar el plan de trabajo anual. Antes
+            de introducir los cambios internos de que trata el presente artículo, el empleador debe informar y capacitar a los trabajadores relacionados con estas modificaciones.
+    - Adquisiciones:
+            Establecer y mantener un procedimiento con el fin de garantizar que se identifiquen y evalúen en las especificaciones relativas a las compras o adquisiciones de productos y servicios, las disposiciones relacionadas con el
+            cumplimiento del SG-SST por parte de la empresa.
+    - Contratación:
+            Adoptar y mantener las disposiciones que garanticen el cumplimiento de las normas de seguridad y salud en el trabajo de su empresa, por parte de los proveedores, trabajadores dependientes, trabajadores cooperados,
+            trabajadores en misión, contratistas y sus trabajadores o subcontratistas, durante el desempeño de las actividades objeto del contrato. Para este propósito, el empleador debe considerar como mínimo:  Incluir los aspectos
+            de SST en la evaluación y selección de proveedores y contratistas; Procurar canales de comunicación para la gestión de seguridad y salud en el trabajo con los proveedores, trabajadores cooperados, trabajadores en misión,
+            contratistas y sus trabajadores o subcontratistas; Verificar antes del inicio del trabajo y periódicamente, el cumplimiento de la obligación de afiliación al Sistema General de Riesgos Laborales, considerando la rotación
+            del personal por parte de los proveedores contratistas y subcontratistas, de conformidad con la normatividad vigente; Informar a los proveedores y contratistas al igual que a los trabajadores de este último, previo al
+            inicio del contrato, los peligros y riesgos generales y específicos de su zona de trabajo incluidas las actividades o tareas de alto riesgo, rutinarias y no rutinarias, así como la forma de controlarlos y las medidas de
+            prevención y atención de emergencias. En este propósito, se debe revisar periódicamente durante cada año, la rotación de personal y asegurar que dentro del alcance de este numeral, el nuevo personal reciba la misma
+            información; Instruir a los proveedores, trabajadores cooperados, trabajadores en misión, contratistas y sus trabajadores o subcontratistas, sobre el deber de informarle, acerca de los presuntos accidentes de trabajo y
+            enfermedades laborales ocurridos durante el periodo de vigencia del contrato para que el empleador o contratante ejerza las acciones de prevención y control que estén bajo su responsabilidad; Verificar periódicamente y
+            durante el desarrollo de las actividades objeto del contrato en la empresa, el cumplimiento de la normatividad en seguridad y salud el trabajo por parte de los trabajadores cooperados, trabajadores en misión, proveedores,
+            contratistas y sus trabajadores o subcontratistas. Para los efectos del SG-SST, los proveedores y contratistas deben cumplir frente a sus trabajadores osubcontratistas, con las responsabilidades del presente capítulo.
+- Verificar
+    - Rendición de cuentas:
+            A quienes se les hayan delegado responsabilidades en el SG- SST, tienen la obligación de rendir cuentas internamente en relación con su desempeño. Esta rendición de cuentas se podrá hacer a través de medios escritos,
+            electrónicos, verbales o los que sean considerados por los responsables. La rendición se hará como mínimo anualmente y deberá quedar documentada.
+    - Auditoría:
+            Realizar una auditoría anual, la cual será planificada con la participación del Comité Paritario o Vigía de Seguridad y Salud en el Trabajo. Si la auditoría se realiza con personal interno de la entidad, debe ser
+            independiente a la actividad, área o proceso objeto de verificación. El programa de auditoría debe comprender entre otros, la definición de la idoneidad de la persona que sea auditora, el alcance de la auditoría, la
+            periodicidad, la metodología y la presentación de informes, y debe tomarse en consideración resultados de auditorías previas. La selección del personal auditor no implicará necesariamente aumento en la planta de cargos
+            existente. Los auditores no deben auditar su propio trabajo. Los resultados de la auditoría deben ser comunicados a los responsables de adelantar las medidas preventivas, correctivas o de mejora en la empresa.
+            El proceso de auditoría de que trata el presente capítulo, deberá abarcar entre otros lo siguiente:El cumplimiento de la política; El resultado de los indicadores de estructura, proceso y resultado; La participación de
+            los trabajadores; El desarrollo de la responsabilidad y la obligación de rendir cuentas; El mecanismo de comunicación de los contenidos del Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST), a los trabajadores;
+            La planificación, desarrollo y aplicación del SG-SST; La gestión del cambio; La consideración de SST en las nuevas adquisiciones; El alcance y aplicación del SG-SST frente a los proveedores y contratistas; La supervisión y
+            medición de los resultados; El proceso de investigación de incidentes, accidentes de trabajo y enfermedades laborales, y su efecto sobre el mejoramiento de la seguridad y salud en el trabajo en la empresa; El desarrollo del
+            proceso de auditoría; La evaluación por parte de la alta dirección.
+    - Revisión por la dirección:
+            La alta dirección, independiente del tamaño de la empresa, debe adelantar una revisión del SG-SST, la cual debe realizarse por lo menos una (1) vez al año, de conformidad con las modificaciones en los procesos, resultados
+            de las auditorías y demás informes que permitan recopilar información sobre su funcionamiento. Dicha revisión debe determinar en qué medida se cumple con la política y los objetivos de seguridad y salud en el trabajo y se
+            controlan los riesgos. La revisión no debe hacerse únicamente de manera reactiva sobre los resultados (estadísticas sobre accidentes y enfermedades, entre otros), sino de manera proactiva y evaluar la estructura y el
+            proceso de la gestión en SST.
+            La revisión de la alta dirección debe permitir: Revisar las estrategias implementadas y determinar si han sido eficaces para alcanzar los objetivos, metas y resultados esperados del Sistema de Gestión de la SST; Revisar el
+            cumplimiento del plan de trabajo anual en SST y su cronograma; Analizar la suficiencia de los recursos asignados para la implementación del SGSST y el cumplimiento de los resultados esperados; Revisar la capacidad del SG-SST,
+            para satisfacer las necesidades globales de la empresa en materia de SST; Analizar la necesidad de realizar cambios en el SG-SST, incluida la revisión de la política y sus objetivos; Evaluar la eficacia de las medidas de
+            seguimiento con base en las revisiones anteriores de la alta dirección y realizar los ajustes necesarios; Analizar el resultado de los indicadores y de las auditorías anteriores del SG-SST; Aportar información sobre nuevas
+            prioridades y objetivos estratégicos de la organización que puedan ser insumos para la planificación y la mejora continua; Recolectar información para determinar si las medidas de prevención y control de peligros y riesgos
+            se aplican y son eficaces; Intercambiar información con los trabajadores sobre los resultados y su desempeño en SST; Servir de base para la adopción de decisiones que tengan por objeto mejorar la identificación de peligros
+            y el control de los riesgos y en general mejorar la gestión en SST de la empresa; Determinar si promueve la participación de los trabajadores; Evidenciar que se cumpla con la normatividad nacional vigente aplicable en materia
+            de riesgos laborales, el cumplimiento de los estándares mínimos; Establecer acciones que permitan la mejora continua en SST; Establecer el cumplimiento de planes específicos, de las metas establecidas y de los objetivos propuestos;
+            Inspeccionar sistemáticamente los puestos de trabajo, las máquinas y equipos y en general, las instalaciones de la empresa; Vigilar las condiciones en los ambientes de trabajo; Vigilar las condiciones de salud de los trabajadores;
+            Mantener actualizada la identificación de peligros, la evaluación y valoración de los riesgos; Identificar la notificación y la investigación de incidentes, accidentes de trabajo y enfermedades laborales; Identificar ausentismo
+            laboral por causas asociadas con SST; Identificar pérdidas como daños a la propiedad, máquinas y equipos entre otros, relacionados con SST; Identificar deficiencias en la gestión de la SST; Identificar la efectividad de los
+            programas de rehabilitación de la salud de los trabajadores. Los resultados de la revisión de la alta dirección deben ser documentados y divulgados al Copasst o Vigía y al responsable del SG-SST quien deberá definir e implementar
+            las acciones preventivas, correctivas y de mejora a que hubiere lugar.
+    - Investigación de accidentes y enfermedades:
+            La investigación de las causas de los incidentes, accidentes de trabajo y enfermedades laborales, debe adelantarse acorde con lo establecido en el presente Decreto, la Resolución número 1401 de 2007 expedida por el Ministerio del
+            Trabajo, y las disposiciones que los modifiquen, adicionen o sustituyan. El resultado de esta investigación, debe permitir entre otras, las siguientes acciones: Identificar y documentar las deficiencias del SG-SST lo cual debe ser
+            el soporte para la implementación de las acciones preventivas, correctivas y de mejora necesarias; Informar de sus resultados a los trabajadores directamente relacionados con sus causas o con sus controles, para que participen
+            activamente en el desarrollo de las acciones preventivas, correctivas y de mejora; Informar a la alta dirección sobre el ausentismo laboral por incidentes, accidentes de trabajo y enfermedades laborales; Alimentar el proceso de
+            revisión que haga la alta dirección de la gestión en SST y que se consideren también en las acciones de mejora continua. Los resultados de actuaciones administrativas desarrolladas por el Ministerio del Trabajo y las recomendaciones
+            por parte de las Administradoras de Riesgos Laborales, deben ser considerados como insumo para plantear acciones correctivas, preventivas o de mejora en materia de SST, respetando los requisitos de confidencialidad que apliquen de
+            acuerdo con la legislación vigente. Para las investigaciones de que trata el presente artículo, el empleador debe conformar un equipo investigador que integre como mínimo al jefe inmediato o supervisor del trabajador accidentado o
+            del área donde ocurrió el evento, a un representante del COPASST o Vigía y al responsable del SGSST. Cuando el empleador no cuente con la estructura anterior, deberá conformar un equipo investigador por trabajadores capacitados para tal fin.
+- Actuar
+    - Mejora contínua:
+            Debe dar las directrices y otorgar los recursos necesarios para la mejora continua del SG-SST, con el objetivo de mejorar la eficacia de todas sus actividades y el cumplimiento de sus propósitos. Entre otras, debe considerar las
+            siguientes fuentes para identificar oportunidades de mejora: El cumplimiento de los objetivos del SG-SST; Los resultados de la intervención en los peligros y los riesgos priorizados; Los resultados de la auditoría y revisión del
+            SG-SST, incluyendo la investigación de los incidentes, accidentes y enfermedades laborales; Las recomendaciones presentadas por los trabajadores y el COPASST o Vigía, según corresponda; Los resultados de los programas de promoción
+            y prevención; El resultado de la supervisión realizado por la alta dirección; Los cambios en legislación que apliquen a la organización.
+    - Acciones preventivas y correctivas:
+            Debe garantizar que se definan e implementen las acciones preventivas y correctivas necesarias, con base en los resultados de la supervisión y medición de la eficacia del SG-SST, de las auditorías y de la revisión por la alta dirección.
+            Estas acciones entre otras, deben estar orientadas a: Identificar y analizar las causas fundamentales de las no conformidades con base en lo establecido en el presente capítulo y las demás disposiciones que regulan los aspectos del
+            Sistema General de Riesgos Laborales; La adopción, planificación, aplicación, comprobación de la eficacia y documentación de las medidas preventivas y correctivas. Cuando se evidencie que las medidas de prevención y protección relativas
+            a los peligros y riesgos en SST son inadecuadas o pueden dejar de ser eficaces, estas deberán someterse a una evaluación y jerarquización prioritaria y sin demora por parte del empleador o contratante, de acuerdo con lo establecido.
+            Todas las acciones preventivas y correctivas deben estar documentadas, ser difundidas a los niveles pertinentes, tener responsables y fechas de cumplimiento.
+    - Plan de mejoramiento
+
+------------------
+- Sanciones:
+            El incumplimiento a lo establecido en el presente capítulo y demás normas que lo adicionen, modifiquen o sustituyan, será sancionado en los términos previstos en el artículo 91 del Decreto Ley número 1295 de 1994, modificado parcialmente
+            y adicionado por el artículo 13 de la Ley 1562 de 2012 y las normas que a su vez lo adicionen, modifiquen o sustituyan.
+
+- Atajos
+------------------
+
+- Sistema de archivo
+
+
+- Tamaño de la empresa
+- Sedes
+- Trabajadores
