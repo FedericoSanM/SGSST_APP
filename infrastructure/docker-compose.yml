@@ -1,0 +1,45 @@
+##Este archivo será el que “coordine” todos los contenedores.
+##Cada contenedor será definido dentro de una sección llamada services.
+
+version: '3.8'
+
+
+services:
+  db:
+    image: postgres:17
+    container_name: SGSST_POSTGRES
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: SGSST_DB
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    networks:
+      - app_network
+  
+  minio:
+    image: minio/minio
+    container_name: SGSST_MINIO
+    restart: always
+    environment:
+      MINIO_ROOT_USER: minioadmin
+      MINIO_ROOT_PASSWORD: minioadmin
+    volumes:
+      - minio_data:/data
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    command: server /data --console-address ":9001"
+    networks:
+      - app_network
+  
+volumes:
+  postgres_data:
+  minio_data:
+
+networks:
+  app_network:
+
