@@ -4,7 +4,7 @@ venv/
 # Entornos y dependencias
 __pycache__/
 *.pyc
-.env
+.env*
 
 # Docker volumes / build
 *.log
