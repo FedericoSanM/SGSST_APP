@@ -1,6 +1,7 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from backend.app.core.config import settings
+import traceback
 
 DATABASE_URL = (
     f"postgresql://{settings.POSTGRES_USER}:{settings.POSTGRES_PASSWORD}"
@@ -23,10 +24,13 @@ def get_db():
     finally:
         db.close()
 
+
+# Comprobación rápida
 if __name__ == "__main__":
     print("🔍 Probando conexión a la base de datos...")
     try:
-        with engine.connect() as connection:
+        with engine.connect() as conn:
             print("✅ Conexión exitosa a la base de datos")
     except Exception as e:
-        print("❌ Error de conexión:", e)
+        print("Error detallado:")
+        traceback.print_exc()

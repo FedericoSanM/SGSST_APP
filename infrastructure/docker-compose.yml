@@ -6,7 +6,7 @@ version: '3.8'
 
 services:
   db:
-    image: postgres:17
+    image: postgres:18
     container_name: SGSST_POSTGRES
     restart: always
     environment:
